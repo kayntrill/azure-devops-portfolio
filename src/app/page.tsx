@@ -8,7 +8,7 @@ const projects = [
     title: "Enterprise CI/CD Automation",
     description:
       "Designed and implemented a scalable CI/CD pipeline for a Fortune 500 company, integrating Azure Pipelines, Kubernetes, and automated security scans. Reduced deployment time by 60% and improved release reliability.",
-    tech: ["Azure Pipelines", "Kubernetes", "Terraform", "SonarQube"],
+    tech: ["Azure Pipelines", "Kubernetes", "Terraform"],
     link: "https://github.com/sample/enterprise-cicd",
   },
   {
